@@ -15,6 +15,7 @@ int main() {
         printf("===================================================\n");
         printf("Sistema de Gerenciamento de Biblioteca\n");
         printf("1. Adicionar Livro\n");
+        printf("2. Listar Livros\n"); 
         printf("2. Listar Livros\n");
         printf("3. Buscar Livro\n");
         printf("4. Remover Livro\n");
